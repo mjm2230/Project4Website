@@ -67,7 +67,7 @@ iframe{
 }
 
 @media (max-width: 600px) {
-    nav, article {
+    nav, article, header, footer {
         width: 100%;
         height: auto;
     }
